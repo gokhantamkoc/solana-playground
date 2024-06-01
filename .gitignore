@@ -1,0 +1,12 @@
+# Solana
+test-ledger
+
+# Node.js
+node_modules/
+
+# Typescript
+build/
+
+# Misc
+.env
+.DS_Store
